@@ -1,3 +1,7 @@
 Archivo1 en la rama
+<<<<<<< HEAD
 Nueva linea para validar en master
 
+=======
+Nueva linea en la rama
+>>>>>>> adriana_colomo_rama
